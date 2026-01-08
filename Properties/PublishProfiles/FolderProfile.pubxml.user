@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <History>True|2022-08-28T07:19:48.5462657Z;True|2022-08-24T22:34:22.8447382+05:30;True|2022-08-20T17:52:22.3945545+05:30;True|2022-08-19T09:38:41.3753026+05:30;True|2022-08-18T14:22:53.4247590+05:30;True|2022-08-18T13:12:55.7350192+05:30;True|2022-08-18T13:08:19.1169757+05:30;True|2022-08-17T08:51:38.7391626+05:30;True|2022-08-16T16:45:01.6678521+05:30;True|2022-08-14T11:38:49.7060180+05:30;False|2022-08-14T11:37:45.1989741+05:30;True|2022-08-14T10:52:57.2110396+05:30;True|2022-08-13T17:02:44.7834111+05:30;True|2022-08-13T15:57:26.5893653+05:30;False|2022-08-13T14:47:15.6000547+05:30;</History>
+    <LastFailureDetails />
+    <_PublishTargetUrl>D:\SolutionsMax\PublishedProjects\TrackNTrace.WebServices.com</_PublishTargetUrl>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,1 @@
+﻿Scaffold-DbContext -Connection name=ClinetTrackNTraceDB Microsoft.EntityFrameworkCore.SqlServer -Context TrackNTraceContext -OutputDir Entities -force
